@@ -1,0 +1,6 @@
+[submodule "neofuuka-scraper"]
+	path = neofuuka-scraper
+	url = git@github.com:oka-tan/neofuuka-scraper.git
+[submodule "FoolFuuka"]
+	path = FoolFuuka
+	url = git@github.com:oka-tan/FoolFuuka.git
