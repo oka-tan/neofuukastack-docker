@@ -6,4 +6,4 @@
 	url = git@github.com:oka-tan/FoolFuuka.git
 [submodule "ayase"]
 	path = ayase
-	url = https://github.com/oka-tan/ayase
+	url = git@github.com:oka-tan/ayase.git
